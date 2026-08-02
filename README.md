@@ -1,23 +1,24 @@
 <div align="center">
 
-# Infrastructure & Systems Engineering
+# ⚡ Infrastructure & Systems Engineering ⚡
 
 </div>
 
 ---
 
-### Profile Overview
-
+### 🧠 Profile Overview
 Systems, network, and infrastructure administrator. Focused on high-availability architectures, bare-metal server management, virtualization, and zero-trust security implementations from edge to core.
 
 ---
 
-### Core Stack & Technologies
+### 🛠️ Core Stack & Technologies
 
 <p align="left">
   <!-- Operating Systems & Virtualization -->
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" />
   <img src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
   <img src="https://img.shields.io/badge/VMware_ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white" />
@@ -26,6 +27,7 @@ Systems, network, and infrastructure administrator. Focused on high-availability
   <!-- Networking & Security -->
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
   <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
@@ -42,13 +44,26 @@ Systems, network, and infrastructure administrator. Focused on high-availability
 
 ---
 
-### Roadmap & Objectives
+### 📊 GitHub Stats
 
-* [ ] Advanced Proxmox clustering (Ceph, SDN configuration)
-* [ ] Cisco CCNA certification path (200-301)
-* [ ] Infrastructure automation pipeline via Python (Netmiko / NAPALM)
-* [ ] Isolated hardening lab deployment (Active Directory / Network segmentation)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
+### 🎯 Roadmap & Objectives
+
+- [ ] Advanced Proxmox clustering (Ceph, SDN configuration)
+- [ ] Cisco CCNA certification path (200-301)
+- [ ] Infrastructure automation pipeline via Python (Netmiko / NAPALM)
+- [ ] Isolated hardening lab deployment (Active Directory / Network segmentation)
+
+---
+
+<div align="center">
+
 > *Infrastructure as Code — Security by Design.*
+
+</div>
